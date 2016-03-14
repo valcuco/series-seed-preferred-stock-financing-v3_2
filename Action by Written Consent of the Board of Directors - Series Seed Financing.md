@@ -1,3 +1,9 @@
+**ACTION BY UNANIMOUS WRITTEN CONSENT**
+
+**OF THE BOARD OF DIRECTORS OF**
+
+**V\_FIELD\_COMPANY\_NAME\_UPCASE**
+
 The undersigned, constituting all of the members of the Board of Directors of v\_field\_company\_name, a Delaware v\_field\_entity\_type (the “*Company*”), pursuant to Section 141(f) of the Delaware General Corporation Law (the “*DGCL*”) and the Company’s Bylaws (the “*Bylaws*”), hereby adopt the following recitals and resolutions by written consent v\_field\_include\_effective\_date\_applicability, effective as of v\_field\_effective\_date v\_field\_end:
 
 *Approval of the Series Seed Financing*.
